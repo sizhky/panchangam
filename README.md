@@ -12,3 +12,6 @@ Popup stays there for a minute, or can be dismissed on mouse click.
 
 # Installation
 Refer to official obsidian documentation on how to install.
+
+# Credits
+https://www.npmjs.com/package/mhah-panchang for the core implementation
